@@ -4,6 +4,9 @@ My name is Adeolu. A frontend developer
 [![Adeolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alagbeadeolu)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlagbeAdeolu)](https://git.io/streak-stats)
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 <!--
 **AlagbeAdeolu/AlagbeAdeolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
