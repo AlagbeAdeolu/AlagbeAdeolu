@@ -3,6 +3,7 @@
 
 
 My name is Adeolu. A frontend developer
+i love creating responsive and visually appealing websites that make use of best practices.
 
 Language and Technologies
 
